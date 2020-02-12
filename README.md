@@ -1,5 +1,4 @@
 # AttendanceManagementSystem
-THE COURSEWORK OVERVIEW
 XYZ University wants to design an online attendance system for students and faculty. There are three users for the system 1. Admin, 2. Lecturer and 3. Students. The system can register the users like lecturer to handle daily attendance of students which are assign intakewise by admin. Also it is able to register the intakewise students to check their own attendance. Attendance will be marked with any one of the 4 options which are 1. PRESENT 2. ABSENT 3. ABSENT WITH REASON and 4. LATE 
  
 All User can login using their login id and password to handle the system. The       functionality of the users are given below. 
